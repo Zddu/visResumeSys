@@ -1,5 +1,5 @@
 {
-  "name": "visResumeMook",
+  "name": "visResumeSys",
   "version": "0.0.1",
   "description": "从0到1实现一款轻巧适用的简历平台桌面应用。",
   "main": "./app/main/electron.js",
