@@ -47,3 +47,6 @@ function useUpdateContactHook() {
     });
   };
 }
+
+
+export default useUpdateResumeHook;
