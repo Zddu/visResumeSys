@@ -1,3 +1,10 @@
+/*
+ * @Author: zengyan.zdde@bytedance.com
+ * @Date: 2021-10-08 11:50:58
+ * @LastEditTime: 2021-10-08 11:55:11
+ * @LastEditors: zengyan
+ * @Description:
+ */
 module.exports = {
   extends: [
     'alloy',
@@ -40,5 +47,6 @@ module.exports = {
     '@typescript-eslint/no-invalid-this': 'off',
     'react/jsx-key': 0,
     'no-undef': 0,
+    '@typescript-eslint/no-require-imports': 'off',
   },
 };
